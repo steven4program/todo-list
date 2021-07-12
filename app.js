@@ -31,6 +31,7 @@ app.get('/', (req, res) => {
   // get all todo data
   Todo.find()
     .lean()
+    .sort({ name: 'asc' })
     .then((todos) => res.render('index', { todos }))
     .catch((error) => console.error(error));
 });
