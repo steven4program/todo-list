@@ -11,10 +11,17 @@
 
 ## Screenshot 畫面瀏覽
 
-![image]()
-![image]()
-![image]()
-![image]()
+Home Page
+![image](https://github.com/steven4program/todo-list/blob/master/screenshot/todo-list.png?raw=true)
+
+Detail Page
+![image](https://github.com/steven4program/todo-list/blob/master/screenshot/detail.png?raw=true)
+
+Edit Page
+![image](https://github.com/steven4program/todo-list/blob/master/screenshot/edit.png?raw=true)
+
+Create Page
+![image](https://github.com/steven4program/todo-list/blob/master/screenshot/create.png?raw=true)
 
 ## Prerequisites - 環境建置與需求
 
