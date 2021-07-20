@@ -42,7 +42,7 @@ git clone https://github.com/steven4program/todo-list.git
 2. 進入存放此專案的資料夾
 
 ```
-cd restaurant_list
+cd todo-list
 ```
 
 3. 安裝 npm 套件
