@@ -4,10 +4,10 @@
 
 ## Features - 產品功能
 
-使用者可以建立新的 Todo 項
-使用者可以檢視 Todo 項
-使用者可以編輯 Todo 項
-使用者可以刪除 Todo 項
+- 使用者可以建立新的 Todo 項
+- 使用者可以檢視 Todo 項
+- 使用者可以編輯 Todo 項
+- 使用者可以刪除 Todo 項
 
 ## Screenshot 畫面瀏覽
 
