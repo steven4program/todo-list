@@ -9,6 +9,13 @@ const todoSchema = new Schema({
   isDone: {
     type: Boolean,
     default: false
+  },
+  userId: {
+    // add relational setting
+    type: Schema.Types.ObjectId,
+    ref: 'User',
+    index: true,
+    required: true
   }
 })
 
